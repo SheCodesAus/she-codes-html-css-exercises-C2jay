@@ -36,5 +36,5 @@ function resetColour() {
 
 function toggleLightbulb() {
    let lightbulb = document.getElementById('light');
-   lightbulb.classList.toggle("on");
+   lightbulb.classList.toggle('on');
 }
